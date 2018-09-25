@@ -2,7 +2,7 @@
 Sli.do Voter - Every Question Matters. `Ever vote counts more though..`
 
 ## What is this?
-There is a website called Sli.do (slido.com) where Questions are often asked during events, town halls, etc.
+There is a website called Sli.do ([slido.com](slido.com)) where Questions are often asked during events, town halls, etc.
 
 Sometimes it's nice to get a few more votes on something pressing
 
